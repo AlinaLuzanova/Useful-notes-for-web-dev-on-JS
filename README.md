@@ -1,5 +1,5 @@
 # Useful-notes-for-web-dev-on-JS
-Здесь вы найдете полезные заметки разработки веб-приложений на JavaScript. Список тем:
+Здесь вы найдете полезные заметки для разработки веб-приложений на JavaScript. Список тем:
 
 1. [HTTP](https://www.notion.so/HTTP-ef8f4e4fcf194b8a8ee905de7d676b62?pvs=21)
 2. [Express](https://www.notion.so/Express-a5389b5ef90e4fbf85bc19833af07b26?pvs=21)
